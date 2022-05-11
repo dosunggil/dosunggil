@@ -1,1 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WELCOME%20TO%20DOSUNGGIL&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DOSUNGGIL&fontSize=90)
+
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dosunggil)](https://hits.seeyoufarm.com)                    
